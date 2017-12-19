@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@types/angular": "~1.6.1",
+    "@types/angular": "1.5.20",
     "@types/jquery": "^1.10.31",
     "@uirouter/angular": "1.0.0-rc.1",
     "@uirouter/angularjs": "1.0.11",
